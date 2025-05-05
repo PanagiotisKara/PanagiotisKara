@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panagiotis</h1>
-<h3 align="center">A passionate software developer from Greece! In my free time I create games, 3d Models & Edit Videos! I have worked on many Projects in different Programming Languages! Down bellow there is every Programming Language I have used! </h3>
+<h3 align="center"> A passionate software developer from Greece! In my free time I create Games ,3D Models & Edit Videos! I have worked on many Projects in different Programming Languages! Down bellow there is every Programming Language I have used! </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=panagiotiskara&label=Profile%20views&color=0e75b6&style=plastic" alt="panagiotiskara" /> </p>
 
